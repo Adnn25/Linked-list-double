@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1652277067 source:c:\users\adnan\documents\exercice2listechainee\main.c
+	<stdio.h>
+	<stdlib.h>
+
